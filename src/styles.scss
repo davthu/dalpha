@@ -1,1 +1,32 @@
-/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/theming";
+
+$custom-typography: mat-typography-config(
+  $font-family: "AvantGarde Bk BT",
+);
+
+@include mat-core($custom-typography);
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: "AvantGarde Bk BT", Roboto, "Helvetica Neue", sans-serif;
+}
+
+.toolbar-spacer {
+  flex: 1 1 auto;
+}
+
+mat-sidenav-container {
+  min-height: 100%;
+}
+
+mat-toolbar {
+  background: #373435;
+}
+
+mat-sidenav {
+  width: 280px;
+}
