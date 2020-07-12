@@ -7,15 +7,18 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialModule } from './material.module';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { ScullyLibModule } from '@scullyio/ng-lib';
-import { MenuComponent, MenuDialogComponent } from './menu/menu.component';
 import { FlexLayoutModule } from '@angular/flex-layout';
+import {
+  ToolbarComponent,
+  ToolbarDialogComponent,
+} from './core/toolbar/toolbar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     PageNotFoundComponent,
-    MenuComponent,
-    MenuDialogComponent,
+    ToolbarComponent,
+    ToolbarDialogComponent,
   ],
   imports: [
     BrowserModule,
@@ -25,7 +28,6 @@ import { FlexLayoutModule } from '@angular/flex-layout';
     ScullyLibModule,
     FlexLayoutModule,
   ],
-  providers: [],
   bootstrap: [AppComponent],
 })
 export class AppModule {}

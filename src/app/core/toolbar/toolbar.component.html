@@ -2,8 +2,11 @@
   <button mat-icon-button aria-label="Home" (click)="openDialog()">
     <mat-icon>menu</mat-icon>
   </button>
+  <span>{{ title }}</span>
   <span class="toolbar-spacer"></span>
-  <span>
-    {{ title }}
-  </span>
+  <mat-slide-toggle
+    [checked]="isDarkTheme$ | async"
+    (change)="toggleDarkTheme($event.checked)"
+    color="primary"
+  ></mat-slide-toggle>
 </mat-toolbar>

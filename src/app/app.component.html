@@ -1,7 +1,11 @@
-<app-menu></app-menu>
+<div
+  class="app-main mat-app-background"
+  [ngClass]="{ 'dark-theme': isDarkTheme$ | async }"
+>
+  <app-toolbar></app-toolbar>
 
-<mat-sidenav-container>
-  <!--<mat-sidenav #sidenav mode="side">
+  <mat-sidenav-container>
+    <!--<mat-sidenav #sidenav mode="side">
     <mat-selection-list [multiple]="false">
       <mat-list-option routerLink="/" routerLinkActive="active">
         Hem
@@ -12,5 +16,6 @@
     </mat-selection-list>
   </mat-sidenav>-->
 
-  <mat-sidenav-content><router-outlet></router-outlet></mat-sidenav-content>
-</mat-sidenav-container>
+    <mat-sidenav-content><router-outlet></router-outlet></mat-sidenav-content>
+  </mat-sidenav-container>
+</div>
