@@ -1,15 +1,7 @@
-<mat-toolbar>
-  <button mat-icon-button aria-label="Home" (click)="sidenav?.toggle()">
-    <mat-icon>menu</mat-icon>
-  </button>
-  <span class="toolbar-spacer"></span>
-  <span>
-    {{ title }}
-  </span>
-</mat-toolbar>
+<app-menu></app-menu>
 
 <mat-sidenav-container>
-  <mat-sidenav #sidenav mode="side">
+  <!--<mat-sidenav #sidenav mode="side">
     <mat-selection-list [multiple]="false">
       <mat-list-option routerLink="/" routerLinkActive="active">
         Hem
@@ -18,7 +10,7 @@
         Om oss
       </mat-list-option>
     </mat-selection-list>
-  </mat-sidenav>
+  </mat-sidenav>-->
 
   <mat-sidenav-content><router-outlet></router-outlet></mat-sidenav-content>
 </mat-sidenav-container>
