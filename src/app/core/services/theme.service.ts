@@ -8,6 +8,7 @@ import { OverlayContainer } from '@angular/cdk/overlay';
 export class ThemeService {
   private _darkTheme: BehaviorSubject<boolean>;
   public isDarkTheme$: Observable<boolean>;
+
   constructor(private overlay: OverlayContainer) {
     const isPresistentDarkTheme =
       window.localStorage['dark-theme'] === '1' ? true : false;

@@ -4,8 +4,12 @@
 >
   <app-toolbar></app-toolbar>
 
-  <mat-sidenav-container>
-    <!--<mat-sidenav #sidenav mode="side">
+  <div class="app-container" fxLayout="column">
+    <router-outlet></router-outlet>
+  </div>
+
+  <!--<mat-sidenav-container>
+    <mat-sidenav #sidenav mode="side">
     <mat-selection-list [multiple]="false">
       <mat-list-option routerLink="/" routerLinkActive="active">
         Hem
@@ -14,8 +18,8 @@
         Om oss
       </mat-list-option>
     </mat-selection-list>
-  </mat-sidenav>-->
+  </mat-sidenav>
 
     <mat-sidenav-content><router-outlet></router-outlet></mat-sidenav-content>
-  </mat-sidenav-container>
+  </mat-sidenav-container>-->
 </div>

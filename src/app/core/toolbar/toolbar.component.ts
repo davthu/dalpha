@@ -10,15 +10,15 @@ import { Observable } from 'rxjs';
 })
 export class ToolbarComponent implements OnInit {
   title = 'dalpha';
-  isDarkTheme$: Observable<boolean>;
-  selectedTheme: boolean;
+  isDarkTheme: boolean;
   themes: string[] = ['light-theme', 'dark-theme'];
 
   constructor(public dialog: MatDialog, private themeService: ThemeService) {}
 
   ngOnInit(): void {
-    this.isDarkTheme$ = this.themeService.isDarkTheme$;
-    this.isDarkTheme$.subscribe((value) => (this.selectedTheme = value));
+    this.themeService.isDarkTheme$.subscribe(
+      (value) => (this.isDarkTheme = value)
+    );
   }
 
   toggleDarkTheme(checked: boolean) {
@@ -46,7 +46,9 @@ export class ToolbarComponent implements OnInit {
 })
 export class ToolbarDialogComponent {
   links = [
-    { path: '/', icon: 'home', title: 'Home' },
-    { path: '/about', icon: 'view_list', title: 'Om oss' },
+    { path: '/', title: 'Hem' },
+    { path: '/products', title: 'Produkter & tjänster' },
+    { path: '/references', title: 'Referenser' },
+    { path: '/about', title: 'Om oss' },
   ];
 }

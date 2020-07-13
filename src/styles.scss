@@ -5,6 +5,7 @@
 
 $custom-typography: mat-typography-config(
   $font-family: 'AvantGarde Bk BT',
+  $body-1: mat-typography-level(16px, 24px, 500),
 );
 
 @include mat-core($custom-typography);
@@ -34,10 +35,14 @@ app-root {
   display: flex;
   flex-direction: column;
   position: absolute;
-  top: 64px;
+  top: 56px;
   bottom: 0;
   left: 0;
   right: 0;
+
+  @media (min-width: 600px) {
+    top: 64px;
+  }
 }
 
 .app-main {
@@ -46,6 +51,11 @@ app-root {
   bottom: 0;
   left: 0;
   right: 0;
+}
+
+.app-container {
+  min-height: 100%;
+  padding: 20px 25px;
 }
 
 app-toolbar {
@@ -60,6 +70,12 @@ mat-sidenav {
   width: 280px;
 }
 
-img {
+.logo {
   max-width: 100%;
+}
+
+app-home {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
 }
