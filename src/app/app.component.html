@@ -8,6 +8,19 @@
     <router-outlet></router-outlet>
   </div>
 
+  <footer fxLayout="row">
+    <mat-toolbar>
+      <div
+        fxFlex="100%"
+        fxFlex.gt-xs="50%"
+        fxFlex.gt-md="25%"
+        *ngFor="let num of [1, 2, 3, 4]"
+      >
+        column
+      </div>
+    </mat-toolbar>
+  </footer>
+
   <!--<mat-sidenav-container>
     <mat-sidenav #sidenav mode="side">
     <mat-selection-list [multiple]="false">
