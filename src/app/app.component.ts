@@ -1,12 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Observable } from 'rxjs';
-
 import { ThemeService } from './core/services/theme.service';
-import {
-  faTwitter,
-  faFacebook,
-  faYoutube,
-} from '@fortawesome/free-brands-svg-icons';
 
 @Component({
   selector: 'app-root',
@@ -15,12 +9,10 @@ import {
 })
 export class AppComponent implements OnInit {
   isDarkTheme$: Observable<boolean>;
-  faTwitter = faTwitter;
-  faFacebook = faFacebook;
-  faYoutube = faYoutube;
+
   constructor(private themeService: ThemeService) {}
 
-  ngOnInit() {
+  ngOnInit(): void {
     this.isDarkTheme$ = this.themeService.isDarkTheme$;
   }
 }

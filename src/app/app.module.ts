@@ -1,5 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
-import { NgModule } from '@angular/core';
+import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -13,6 +13,7 @@ import {
   ToolbarDialogComponent,
 } from './core/toolbar/toolbar.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { FaIconModule } from './fa-icon.module';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,9 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
     ScullyLibModule,
     FlexLayoutModule,
     FontAwesomeModule,
+    FaIconModule,
   ],
   bootstrap: [AppComponent],
+  schemas: [CUSTOM_ELEMENTS_SCHEMA],
 })
 export class AppModule {}
