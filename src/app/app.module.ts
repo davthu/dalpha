@@ -12,6 +12,7 @@ import {
   ToolbarComponent,
   ToolbarDialogComponent,
 } from './core/toolbar/toolbar.component';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 @NgModule({
   declarations: [
@@ -27,6 +28,7 @@ import {
     MaterialModule,
     ScullyLibModule,
     FlexLayoutModule,
+    FontAwesomeModule,
   ],
   bootstrap: [AppComponent],
 })
