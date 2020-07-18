@@ -1,0 +1,17 @@
+<mat-accordion>
+  <mat-expansion-panel *ngFor="let product of product$ | async">
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        {{ product.title || product.route }}
+      </mat-panel-title>
+      <mat-panel-description>
+        <!--{{ product.published | date: 'shortDate' }}-->
+      </mat-panel-description>
+    </mat-expansion-panel-header>
+    <p>{{ product.description }}</p>
+
+    <button mat-flat-button color="primary" [routerLink]="[product.route]">
+      Läs mer
+    </button>
+  </mat-expansion-panel>
+</mat-accordion>

@@ -47,7 +47,7 @@ export class ToolbarComponent implements OnInit {
 export class ToolbarDialogComponent {
   links = [
     { path: '/', title: 'Hem' },
-    { path: '/products', title: 'Produkter & tjänster' },
+    { path: '/product', title: 'Produkter & tjänster' },
     { path: '/references', title: 'Referenser' },
     { path: '/about', title: 'Om oss' },
   ];

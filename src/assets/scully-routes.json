@@ -1,1 +1,1 @@
-[{"route":"/home"},{"route":"/about"},{"route":"/"}]
+[{"route":"/"},{"route":"/about"},{"route":"/product"},{"route":"/product/example-product","title":"Example product","description":"description","published":true,"sourceFile":"example-product.md"},{"route":"/references"}]
