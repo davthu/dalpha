@@ -1,7 +1,7 @@
 ---
-title: 2020-07-18-references
-description: blog description
+title: Mall of Scandinavia
+description: Vi har dragit fiber genom hela gallerian, såväl under som över mark.
 published: false
+thumbnail: assets/images/uploads/mall-of-scandinavia.jpg
 ---
-
-# 2020-07-18-references
+Mall of Scandinavia är nordens största shopping galleria ochvi drog över 10km kabel.
