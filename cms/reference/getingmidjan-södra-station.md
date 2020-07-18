@@ -1,7 +1,8 @@
 ---
 title: Getingmidjan Södra Station
-subtitle: Mycket jobb vare
+subtitle: Vi drog både starkström och fiber för tågrafiken genom stan.
 thumbnail: assets/images/uploads/getingmidjan.jpg
-description: Satan i gatan vilket jobb vi gjorde. Kundn vart riktigt nöjd också.
+description: Satan i gatan vilket jobb vi gjorde. Kunden vart riktigt nöjd också.
 ---
+
 Den här texten används inte just nu

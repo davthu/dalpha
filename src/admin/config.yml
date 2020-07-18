@@ -27,13 +27,8 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string' }
-      - {
-          label: 'Subtitle',
-          name: 'subtitle',
-          widget: 'string',
-          required: false,
-        }
+      - { label: 'Subtitle', name: 'subtitle', widget: 'string' }
 
       - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
       - { label: 'Description', name: 'description', widget: 'text' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
