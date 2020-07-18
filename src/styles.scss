@@ -59,6 +59,8 @@ app-root {
     min-height: calc(100% - 64px);
   }
   padding: 20px 25px;
+  max-width: 780px;
+  margin: 0 auto;
 }
 
 app-toolbar {

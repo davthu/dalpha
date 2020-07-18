@@ -1,9 +1,13 @@
 ---
 title: Utrymmningslarm
+description: Brandlarm aktiverar ett utrymningslarm, som påkallar uppmärksamhet och gör att lokalerna kan utrymmas effektivt. Ett utrymningslarm kan även aktiveras av andra orsaker, till exempel en gasläcka eller ett terrorhot.
 ---
-Brandlarm aktiverar ett utrymningslarm, som påkallar uppmärksamhet och gör att lokalerna kan utrymmas effektivt. Ett utrymningslarm kan även aktiveras av andra orsaker, till exempel en gasläcka eller ett terrorhot. Aktiveringen kan ske automatiskt av brandlarmet, eller manuellt av personer som upptäcker en fara. 
 
-###  Vad är talat utrymningslarm?
+# Brandlarm
+
+Brandlarm aktiverar ett utrymningslarm, som påkallar uppmärksamhet och gör att lokalerna kan utrymmas effektivt. Ett utrymningslarm kan även aktiveras av andra orsaker, till exempel en gasläcka eller ett terrorhot. Aktiveringen kan ske automatiskt av brandlarmet, eller manuellt av personer som upptäcker en fara.
+
+### Vad är talat utrymningslarm?
 
 Ett högtalarsystem med inbyggt förinspelat meddelande. Vi vet att alla människor vill ha bekräftelse och det gäller i synnerhet vid larm av olika slag. Hur många gånger har vi inte irriterat oss på siréner och tutor av olika slag som står och tjuter? Billarm som blinkar, tutar och stör. Bryr de flesta sig om dessa larm? Tveksamt. Vi människor vill veta vad som hänt innan vi vidtar någon åtgärd. Vi vill ha bekräftat att något hänt. Att det verkligen brinner. Att båten håller på att sjunka. Att det uppstått en gasläcka. Att vi är i omedelbar fara. Att vi ska utrymma lokalen.
 
