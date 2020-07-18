@@ -4,7 +4,7 @@
   <mat-expansion-panel *ngFor="let product of product$ | async">
     <mat-expansion-panel-header>
       <mat-panel-title>
-        {{ product.title || product.route }}
+        {{ product.title }}
       </mat-panel-title>
       <mat-panel-description>
         <!--{{ product.published | date: 'shortDate' }}-->

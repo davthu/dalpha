@@ -48,7 +48,7 @@ export class ToolbarDialogComponent {
   links = [
     { path: '/', title: 'Hem' },
     { path: '/product', title: 'Produkter & tjänster' },
-    { path: '/references', title: 'Referenser' },
+    { path: '/reference', title: 'Referenser' },
     { path: '/about', title: 'Om oss' },
   ];
 }

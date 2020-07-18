@@ -18,9 +18,9 @@ const routes: Routes = [
       import('./product/product.module').then((m) => m.ProductModule),
   },
   {
-    path: 'references',
+    path: 'reference',
     loadChildren: () =>
-      import('./references/references.module').then((m) => m.ReferencesModule),
+      import('./reference/reference.module').then((m) => m.ReferenceModule),
   },
   { path: '**', component: PageNotFoundComponent },
 ];

@@ -4,6 +4,12 @@ export const config: ScullyConfig = {
   projectName: 'dalpha',
   outDir: './dist/static',
   routes: {
+    '/reference/:title': {
+      type: 'contentFolder',
+      title: {
+        folder: './cms/reference',
+      },
+    },
     '/product/:title': {
       type: 'contentFolder',
       title: {
