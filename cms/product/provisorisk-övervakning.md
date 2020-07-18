@@ -9,3 +9,10 @@ SafeTeams hyrlarm består av en fysisk larmväska som innehåller olika larmenhe
 
 SafeTeams larmväskor kan antingen hyras som ett inbrottslarm eller brandlarm, eller som en kombination av dem. Hyrlarmen kan vid behov vara direktuppkopplade till en larmcentral som automatiskt larmas vid aktiveringen av brand- eller inbrottslarmet.
 SafeTeams hyrlarm är en skalbar lösning som kan anpassas efter dina behov och förutsättningar, en bra lösning för företag av alla storlekar. De kan även kombineras med en tillfällig lösning för kamerabevakning.
+
+När behöver man ett provisorisk övervakning?
+* Ny lokal
+* Renovering
+* Trasig larmanläggning
+* Event
+* Byggarbetsplats
