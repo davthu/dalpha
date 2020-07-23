@@ -1,15 +1,19 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit, ViewEncapsulation} from '@angular/core';
+import {ActivatedRoute, Router, ROUTES} from '@angular/router';
+
+declare var ng: any;
 
 @Component({
   selector: 'app-about',
   templateUrl: './about.component.html',
-  styleUrls: ['./about.component.scss']
+  styleUrls: ['./about.component.scss'],
+  preserveWhitespaces: true,
+  encapsulation: ViewEncapsulation.Emulated
+
 })
 export class AboutComponent implements OnInit {
+  ngOnInit() {}
 
-  constructor() { }
-
-  ngOnInit(): void {
+  constructor(private router: Router, private route: ActivatedRoute) {
   }
-
 }

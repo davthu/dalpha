@@ -8,7 +8,7 @@ publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
   - name: 'product' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'Products' # Used in the UI, ie.: "New Post"
+    label: 'Tjänster & Produkter' # Used in the UI, ie.: "New Post"
     folder: 'cms/product' # (src/assets/blog) The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -21,14 +21,43 @@ collections: # A list of collections the CMS should be able to edit
           required: false,
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'reference' # Used in routes, ie.: /admin/collections/:slug/edit
-    label: 'References' # Used in the UI, ie.: "New Post"
-    folder: 'cms/reference' # (src/assets/blog) The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+  - name: 'reference'
+    label: 'Referenser'
+    folder: 'cms/reference'
+    create: true
+    fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Subtitle', name: 'subtitle', widget: 'string' }
-
       - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
       - { label: 'Description', name: 'description', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+  - name: 'pages'
+    label: 'Statiska sidor'
+    files:
+      - label: 'Om oss'
+        name: 'about'
+        file: 'cms/about/about.md'
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+          - label: Team
+            name: team
+            widget: list
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Position, name: position, widget: string }
+              - { label: E-post, name: email, widget: string }
+              - {
+                  label: Telefon,
+                  name: position,
+                  widget: string,
+                  required: false,
+                }
+              - { label: Photo, name: photo, widget: image, required: false }
+      - label: 'Hem'
+        name: 'home'
+        file: 'cms/home/home.md'
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+          - { label: Logo, name: logo, widget: image, required: false }
