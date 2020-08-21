@@ -47,12 +47,7 @@ collections: # A list of collections the CMS should be able to edit
               - { label: Name, name: name, widget: string }
               - { label: Position, name: position, widget: string }
               - { label: E-post, name: email, widget: string }
-              - {
-                  label: Telefon,
-                  name: position,
-                  widget: string,
-                  required: false,
-                }
+              - { label: Telefon, name: phone, widget: string, required: false }
               - { label: Photo, name: photo, widget: image, required: false }
       - label: 'Hem'
         name: 'home'
