@@ -9,9 +9,7 @@ team:
 ---
 ## Installation, säkerhet, teknik
 
-Dalpha Cabling har sedan 2015 varit verksamma i Stockholm och ufört tele- och säkerhetsinstallationer i hela länet. Man har också jobbet nära med alla de stora säkerhetbolagen och bistått dessa med resurser i krävande tider. 
-
-
+Dalpha Cabling har sedan 2015 varit verksamma i Stockholm och ufört tele- och säkerhetsinstallationer i hela länet. Man har också jobbat nära alla de stora säkerhetbolagen och bistått dessa med resurser i krävande tider. 
 
 ## Vilka vi är
 
