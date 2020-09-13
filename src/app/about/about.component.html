@@ -1,5 +1,14 @@
 <h1>Om Dalpha</h1>
 
-<mat-card>
-  <div class="app-scully-content"><scully-content></scully-content></div>
-</mat-card>
+<div fxLayout="row wrap" fxLayoutGap="20px grid">
+  <div fxFlex="100%" fxFlex.gt-sm="50%">
+    <mat-card class="mat-elevation-z4">
+      <div class="app-scully-content"><scully-content></scully-content></div>
+    </mat-card>
+  </div>
+  <div fxFlex="100%" fxFlex.gt-sm="50%">
+    <mat-card class="mat-elevation-z4">
+      <app-contact-form></app-contact-form>
+    </mat-card>
+  </div>
+</div>

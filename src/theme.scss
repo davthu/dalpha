@@ -5,8 +5,8 @@ $light-theme: mat-light-theme(
     color: (
       primary: mat-palette($mat-red, 500),
       secondary: mat-palette($mat-gray, 500),
-      accent: mat-palette($mat-blue, 500),
-      warn: mat-palette($mat-purple, 500),
+      accent: mat-palette($mat-pink, 500),
+      warn: mat-palette($mat-deep-orange, 500),
     ),
   )
 );
@@ -18,8 +18,8 @@ $light-theme: mat-light-theme(
       color: (
         primary: mat-palette($mat-red, 500),
         secondary: mat-palette($mat-gray, 500),
-        accent: mat-palette($mat-blue, 500),
-        warn: mat-palette($mat-purple, 500),
+        accent: mat-palette($mat-pink, 500),
+        warn: mat-palette($mat-deep-orange, 500),
       ),
     )
   );
