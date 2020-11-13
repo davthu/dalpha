@@ -1,6 +1,7 @@
 ---
-title: Data / Tele
-description: Vi utför uppdrag inom tele- och datainstallationer till privatpersoner och företag.
+title: Data / Telekom
+description: Vi utför uppdrag inom tele- och datainstallationer
+  till privatpersoner och företag.
 ---
 
 # Data / Tele
