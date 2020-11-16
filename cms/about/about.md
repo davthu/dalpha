@@ -9,7 +9,9 @@ team:
 ---
 ## Installation, säkerhet, teknik
 
-Dalpha har sedan 2015 varit verksamma i Stockholm och ufört tele- och säkerhetsinstallationer i hela länet. Man har också jobbat nära alla de stora säkerhetbolagen och bistått dessa med resurser i krävande tider. 
+Dalpha har sedan 2015 varit verksamma i Stockholm och ufört tele- och säkerhetsinstallationer i hela länet. Man har också jobbat nära alla de stora säkerhetbolagen och bistått dessa med resurser i krävande tider.  
+
+Oavsett om behovet är kalkylering, riskanalys, installation, driftsättning, underhåll, service eller dokumentation, så finns vi där för våra kunder. Vårt mål är att leverera våra tjänster med en hög kvalitet inom effektiva tidsramar. 
 
 ## Vilka vi är
 
