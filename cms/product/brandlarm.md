@@ -1,6 +1,7 @@
 ---
 title: Brandlarm
-description: Våra projektörer har hög brandteknisk kompetens. Vi är också vana vid att samarbeta med brandkonsulter när det finns hos våra kunder.
+description: En nödvändighet för de flesta verksamheter för att prioritera
+  säkerheten och förenkla det systematiska brandskyddsarbetet.
 ---
 
 # Brandlarm
