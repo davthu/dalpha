@@ -1,15 +1,12 @@
 ---
 title: Brandlarm
-description: En nödvändighet för de flesta verksamheter för att prioritera
-  säkerheten och förenkla det systematiska brandskyddsarbetet.
+description: "En nödvändighet för de flesta verksamheter som vill prioritera
+  säkerheten och förenkla det systematiska brandskyddsarbetet. "
 ---
-
 # Brandlarm
 
-Om det börjar brinna är en tidig upptäckt av branden oerhört viktig. Ett brandlarm reagerar på rök eller värme så att åtgärd kan vidtas och egendom räddas. Brandlarmet aktiverar även utrymningslarmet, så att människor kan sätta sig i säkerhet.
+Om olyckan är framme är tidig upptäckt av brand oerhört viktig. Ett brandlarm reagerar på rök eller värme så att åtgärd kan vidtas så människor och egendom kan räddas. Brandlarmet aktiverar även utrymningslarmet, så att människor kan sätta sig i säkerhet.
 
-Det ställs höga krav på en säker brandlarmanläggning. Allt ifrån projektering och installation till kontroll och dokumentation måste vara korrekt utfört. Vi är en SCAB-certifierad anläggarfirma av brandlarm. Det innebär bland annat att vi har ett dokumenterat kvalitetssystem och personal med hög kompetens och erfarenhet. Vår kvalitet kontrolleras regelbundet av externa revisorer. Det blir ert kvitto på kvalitet. Hos oss jobbar personal med personcertifiering som behörig ingenjör brandlarm. Det säkerställer att vår personal har den utbildning, praktiska erfarenhet och fackkunskap som krävs. Inför en installation av brandlarm krävs en översyn av hela fastigheten. Byggnadens ytskikt, brandbelastning och brandcellsbegränsningar är exempel på sådant som tas i beaktande. Olika myndighetskrav tillsammans med era unika kundkrav är sedan det som avgör hur brandskyddslösningen ska se ut.
+Det ställs höga krav på en säker brandlarmanläggning. Allt ifrån projektering och installation till kontroll och dokumentation måste vara korrekt utfört. Vi är en SBSC-certifierad anläggarfirma av brandlarm. Detta innebär vi jobbar med ett dokumenterat godkänt kvalitetssystem och personal med hög kompetens och erfarenhet. Vi kontrolleras regelbundet av externa revisorer från certifieringsorganet. Detta innebär att vi har personal med personcertifiering som behörig ingenjör brandlarm, vilket säkerställer att vi har den kompetens som krävs när man skall uppföra en brandlarmsanläggning som följer regelverket. 
 
-I samband med projekteringen besvaras en mängd frågor, exempelvis: Måste brandlarmet vara kopplat till räddningstjänst? Hur ska larmöverföringen ske? Vilken nivå av detektorövervakning krävs? Ska rökdetektorer eller värmedetektorer användas? Ska brandlarmet kombineras med sprinklersystem?
-
-Våra projektörer har hög brandteknisk kompetens. Vi är också vana vid att samarbeta med brandkonsulter när det finns hos våra kunder.
+Dalpha har den kompetens som krävs för att upprätta brandlarmsprojekt i alla skeden. I dagsläget jobbar vi med fastighetsbolag, säkerhetsbolag och byggentreprenörer. Oavsett om det handlar om befintliga byggnader eller nyproduktion, så bistår vi med alla delar som berör brandlarmet. Även om det också innebär integration med andra säkerhets- eller teletekniska lösningar.
