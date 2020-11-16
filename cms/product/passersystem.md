@@ -1,21 +1,21 @@
 ---
 title: Passersystem
-description: Är det många människor som rör sig i era lokaler? Har ni många in- och utflyttningar? Då kommer ni tjäna på att installera ett modernt passersystem. Vi installerar och servar alla typer av passersystem.
+description: Är det många människor som rör sig i era lokaler? Har ni många in-
+  och utflyttningar? Då kommer ni tjäna på att installera ett modernt
+  passersystem. Vi är märkesoberoende och installerar och servar alla typer av
+  passersystem.
 ---
-
 # Passersystem
 
-Är det många människor som rör sig i era lokaler? Har ni många in- och utflyttningar? Då kommer ni tjäna på att installera ett modernt passersystem. Vi installerar och servar alla typer av passersystem.
-
-Vår styrka är att vi kan – om ni vill – hjälpa er med ett helhetstänk kring passagerna i er fastighet. Vi rekommenderar gärna hur passersystem kan ”prata med” övrig säkerhet (t.ex. inbrottslarm, lås eller kameraövervakning) eftersom vi vet att ni tjänar på det, både säkerhetsmässigt och ekonomiskt.
+Nu för tiden är passersystem mer en regel än en ovanlighet. Idag kan passersystem kommunicera med övrig säkerhet (brandlarm, inbrottslarm, lås, internet eller kameraövervakning), vilket gör användningsområdet mer eller mindre obegränsat. Vi hjälper er hitta rätt system och vilka lösningar som skulle optimera er verksamhet.
 
 Fördelar med passersystem:
 
-- Tillträdesstyrning
-  - Ni styr vilka dörrar som ska öppnas, vem dörrarna ska öppnas för, samt vilken tid på dygnet de ska öppnas.
-- Nyckelkontroll
-  - Ni spärrar enkelt borttappade nyckelbrickor.
-- Skalbarhet
-  - Ni bygger lätt ut ett litet passersystem till ett större vid behov.
-- Händelseloggar
-  - Ni ser i efterhand vem som har passerat var, och när.
+* Tillträdesstyrning (vem har tillträde vart)
+* Nyckelkontroll (spåra vems nyckel)
+* Obegränsad utbyggnad & uppdatering i takt med er verksamhet
+* Händelseloggar (spåra eller analysera era loggar)
+* Bokningssystem (tvättstuga, föreningslokal, parkeringsplats)
+* Notifiering (pushnotiser för vald aktivitet)
+* Laddstationer 
+* Debitering (ta betalt för extra tjänster etc)
