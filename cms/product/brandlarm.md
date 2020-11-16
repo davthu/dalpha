@@ -2,6 +2,7 @@
 title: Brandlarm
 description: "En nödvändighet för de flesta verksamheter som vill prioritera
   säkerheten och förenkla det systematiska brandskyddsarbetet. "
+thumbnail: assets/images/uploads/certifierad_anla݈ggarfirma_brandlarm.jpg
 ---
 # Brandlarm
 
