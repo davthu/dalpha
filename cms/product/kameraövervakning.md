@@ -2,7 +2,8 @@
 title: Kameraövervakning
 description: "Oavsett om ditt behov av övervakningskameror har med säkerhet
   eller med optimering av er verksamhet att göra, så hjälper vi er med rätt
-  lösning. "
+  lösning. Med en teknologi som ständigt är under utveckling, ser vi till att ni
+  har rätt lösning för er verksamhet. "
 ---
 # Kameraövervakning
 
