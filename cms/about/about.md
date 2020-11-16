@@ -13,6 +13,8 @@ Dalpha har sedan 2015 varit verksamma i Stockholm och ufört tele- och säkerhet
 
 Oavsett om behovet är kalkylering, riskanalys, installation, driftsättning, underhåll, service eller dokumentation, så finns vi där för våra kunder. Vårt mål är att leverera våra tjänster med en hög kvalitet inom effektiva tidsramar. 
 
+
+
 ## Vilka vi är
 
-Dalpha Cabling är ett gäng dedikerade och handplockade tekniker som brinner för att hjälpa våra kunder. Dalpha Cabling är ett familjeföretag med förflutet i både säkerhets- och nätverksbranschen.
+Dalpha Cabling är ett gäng dedikerade och handplockade tekniker som brinner för att hjälpa våra kunder. Dalpha är ett familjeföretag med förflutet i både säkerhets- och nätverksbranschen med fokus på både installation och drift.
