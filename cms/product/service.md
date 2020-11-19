@@ -16,4 +16,6 @@ Anläggningar som mår bra av serviceavtal:
 * Brandlarm
 * Larm
 * Passersystem
-*
+* Kameraövervakning
+
+I ett serviceavtal kan det ingå allt från års-, kvartals- eller månadsprov. Inställelse på plats inom 24 timmar vid akuta problem. Brick- och nyckelhantering för passersystem. Rapportering, riskrapport, revision etc. Efter gemensam bedömning med kund når vi ett avtal som passer just er.
