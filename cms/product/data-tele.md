@@ -1,7 +1,10 @@
 ---
 title: Data / Tele
 description: Vi utför uppdrag inom tele- och datainstallationer
-  till privatpersoner och företag.
+  till privatpersoner och företag. I dagens uppkopplade samhälle behövs allt mer
+  tillgång till pålitlig kommunikationsteknologi. Då det efterfrågas allt mer
+  trådlös kommunikation, så är kraven på kabelinstallationerna högre. Dalpha
+  levererar certifierade datanät med 25 års garanti.
 ---
 # Data / Tele
 
@@ -13,3 +16,4 @@ Olika typer av kommunikationsinstallationer:
 * Fiber Singlemode och Multimode
 * Radiolänk
 * Wifi
+* Internet of things
