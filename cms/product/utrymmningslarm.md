@@ -5,8 +5,7 @@ description: Brandlarm aktiverar ett utrymningslarm, som påkallar uppmärksamhe
   aktiveras av andra orsaker, till exempel en gasläcka eller ett terrorhot,
   likväl som att agera inrymningslarm om man behöver samla in människor.
 ---
-
-# Brandlarm
+# Talat utrymningslarm
 
 Brandlarm aktiverar ett utrymningslarm, som påkallar uppmärksamhet och gör att lokalerna kan utrymmas effektivt. Ett utrymningslarm kan även aktiveras av andra orsaker, till exempel en gasläcka eller ett terrorhot. Aktiveringen kan ske automatiskt av brandlarmet, eller manuellt av personer som upptäcker en fara.
 
