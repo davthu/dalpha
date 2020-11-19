@@ -1,6 +1,10 @@
 ---
 title: Provisorisk övervakning
-description: Vi är proffs på att installera larmsystem för provisorisk övervakning vid akuta situationer.
+description: Alla slag installationer för provisorisk övervakning eller
+  temporära larmsystem. Evenemang, byggen eller defekt säkerhetsanläggning är
+  några typiska objekt som kan behöva provisoriska lösningar. Det kan också
+  finnas behov på objekt som är off-grid, dit den vanliga nätförsörjningen inte
+  når. Vi hjälper er att hitta rätt lösning.
 ---
 
 # Provisorisk övervakning
