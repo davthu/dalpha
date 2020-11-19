@@ -1,8 +1,10 @@
 ---
 title: Brandlarm
 description: "En nödvändighet för de flesta verksamheter som vill prioritera
-  säkerheten och förenkla det systematiska brandskyddsarbetet. "
-thumbnail: assets/images/uploads/certifierad_anla݈ggarfirma_brandlarm.jpg
+  säkerheten och förenkla det systematiska brandskyddsarbetet. Dalpha är
+  certifierad anläggarfirma och projekterar, installerar och underhåller
+  skräddarsydda brandlarmanläggningar som uppfyller rådande regelverk. "
+thumbnail: ""
 ---
 # Brandlarm
 
