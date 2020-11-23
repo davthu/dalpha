@@ -13,9 +13,9 @@ Har ni problem med skadegörelse och klotter? Olaga intrång på bakgården? Bil
 
 Kameraövervakning används för att:
 
-* avskräcka från brott
-* verifiera larm/falsklarm
-* kontrollera in- och utpassering
-* underlätta identifiering vid brottsutredningar
-* analysera rörelsemönster
-* öka tryggheten
+* Avskräcka från brott
+* Verifiera larm/falsklarm
+* Kontrollera in- och utpassering
+* Underlätta identifiering vid brottsutredningar
+* Analysera rörelsemönster
+* Öka tryggheten
