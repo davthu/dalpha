@@ -7,7 +7,7 @@ description: Är det många människor som rör sig i era lokaler? Har ni många
 ---
 # Passersystem
 
-Nu för tiden är passersystem mer en regel än en ovanlighet. Idag kan passersystem kommunicera med övrig säkerhet (brandlarm, inbrottslarm, lås, internet eller kameraövervakning), vilket gör användningsområdet mer eller mindre obegränsat. Vi hjälper er hitta rätt system och vilka lösningar som skulle optimera er verksamhet.
+Nuförtiden är passersystem mer en regel än ett undantag. Idag kan passersystem kommunicera med övrig säkerhet (brandlarm, inbrottslarm, lås, internet eller kameraövervakning), vilket gör användningsområdet mer eller mindre obegränsat. Vi hjälper er hitta rätt system och vilka lösningar som skulle optimera er verksamhet.
 
 Fördelar med passersystem:
 
