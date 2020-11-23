@@ -9,6 +9,7 @@ import {
   faTwitter,
   faFacebook,
   faYoutube,
+  faInstagram,
 } from '@fortawesome/free-brands-svg-icons';
 
 @NgModule({
@@ -17,6 +18,6 @@ import {
 })
 export class FaIconModule {
   constructor(library: FaIconLibrary) {
-    library.addIcons(faTwitter, faFacebook, faYoutube);
+    library.addIcons(faTwitter, faFacebook, faYoutube, faInstagram);
   }
 }
