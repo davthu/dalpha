@@ -19,12 +19,8 @@ Samma test utfördes med talat utrymningslarm där en varningssignal följdes av
 
 ### När används talat utrymningslarm?
 
-Främst då man vill meddela människor att utrymma lokalen de vistas i. Kan även förmedla andra meddelanden. Att tala om för människor att de är i fara och omedelbart ska utrymma lokalerna är naturligtvis det absolut viktigaste meddelandet i ett talat utrymningslarm. Andra exempel på meddelanden man vill få ut till allmänheten kan vara information av olika slag.
+Främst då man vill meddela människor att utrymma lokalen de vistas i. Det kan även förmedla andra meddelanden. Att informera människor att de är i fara och omedelbart ska utrymma lokalerna är naturligtvis det absolut viktigaste meddelandet i ett talat utrymningslarm. Andra exempel på meddelanden man vill få ut till allmänheten kan vara information av olika slag.
 
-### Faran över
-
-Testmeddelanden, då man provar funktionen i det talande utrymningslarmet,
-Kundmeddelanden, standardmeddelanden exempelvis vid stängning,
-Man kan ha många fasta meddelanden inlagda och i vissa system hanteras tusentals meddelanden.
+Testmeddelanden, då provas funktionen i det talande utrymningslarmet; exempelvis kundmeddelanden, standardmeddelanden vid stängning. Det kan finnas många fasta meddelanden inlagda och i vissa system hanteras tusentals meddelanden.
 
 Med hjälp av utropsmikrofoner kan man göra manuella utrop i anläggningen exempelvis unika kundmeddelanden, efterlysningar, personalmeddelanden mm. Här finns inga begränsningar.
