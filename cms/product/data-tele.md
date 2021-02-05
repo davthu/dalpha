@@ -14,6 +14,6 @@ Olika typer av kommunikationsinstallationer:
 
 * Koppar TP-kabel alla kategorier 
 * Fiber Singlemode och Multimode
-* Radiolänk
-* Wifi
-* Internet of things
+* Power over Ethernet PoE
+* Wifi och radiolänkar
+* Internet of things IoT
