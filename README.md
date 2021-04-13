@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d8b0d21f-99ac-4757-8aa9-a2043e85f75b/deploy-status)](https://app.netlify.com/sites/dalpha/deploys)
 # Dalpha
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
